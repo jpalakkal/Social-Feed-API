@@ -1,6 +1,6 @@
 {
-  "name": "social-feed-api",
-  "version": "1.1.3",
+  "name": "Social-Feed-API",
+  "version": "0.0.0",
   "description": "Aggregates social media feeds and outputs them to use in an API",
   "main": "dist/index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sourcetoad/node-social-feed-api.git"
+    "url": "git+https://github.com/sourcetoad/Social-Feed-API.git"
   },
   "keywords": [
     "social",
@@ -19,12 +19,12 @@
     "twitter",
     "api"
   ],
-  "author": "Max Kaplan",
+  "author": "jpalakkal",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sourcetoad/node-social-feed-api/issues"
+    "url": "https://github.com/sourcetoad/Social-Feed-API/issues"
   },
-  "homepage": "https://github.com/sourcetoad/node-social-feed-api#readme",
+  "homepage": "https://github.com/sourcetoad/Social-Feed-API#readme",
   "devDependencies": {
     "babel-preset-es2015": "^6.24.0",
     "chai": "^3.5.0",
